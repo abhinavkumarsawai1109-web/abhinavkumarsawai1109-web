@@ -1,61 +1,88 @@
-<h1 align="center">Hi 👋, I'm Abhinav </h1>
-<h3 align="center">Aspiring developer who loves building things and learning new tech</h3> <!-- EDIT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e44ad&height=220&section=header&text=Abhinav%20Kumar%20Sawai&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Data%20Science%20Student&descAlignY=58&descSize=18" width="100%" alt="Abhinav Kumar Sawai" />
+
+## 👨‍💻 About Me :
+
+- B.Tech **Data Science** Student specializing in **Machine Learning & Data Analysis**
+- Passionate about AI, Machine Learning, and Software Development
+- Currently learning **Data Structures & Algorithms, DBMS, and Python Libraries**
+- I enjoy building practical projects that solve real-world problems
+- Always exploring new technologies and improving my coding skills
+
+## 🎯 Focus Areas :
+
+- Machine Learning & Data Analysis
+- Python Programming
+- Data Structures & Algorithms
+- SQL & Database Management
+- Flask & TensorFlow
+- Git, GitHub & Version Control
+- Building Real-World Projects
+
+## 📊 GitHub Stats & Trophies :
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalrana45&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/abhinavkumarsawai1109-web">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavkumarsawai1109-web&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=abhinavkumarsawai1109-web&theme=dark&hide_border=true&cache_seconds=86400" width="49%" />
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Currently learning: **Web Development / Python** <!-- EDIT -->
-- 🔭 Working on: **Your current project** <!-- EDIT -->
-- 🌱 Exploring: **Git, APIs, Data Structures** <!-- EDIT -->
-- 💬 Ask me about: **HTML, CSS, JavaScript** <!-- EDIT -->
-- 📫 Reach me: **your-email@example.com** <!-- EDIT -->
-- ⚡ Fun fact: **Something interesting about you** <!-- EDIT -->
-
----
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<!-- EDIT: remove what you don't use, add what you do -->
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalrana45&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalrana45&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://trophy.ryglcloud.net/?username=abhinavkumarsawai1109-web&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" />
 </p>
 
----
+## 💻 Programming Languages :
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project One](https://github.com/vishalrana45/project-one) | Short one-line description | HTML, CSS, JS | <!-- EDIT -->
-| [Project Two](https://github.com/vishalrana45/project-two) | Short one-line description | Python | <!-- EDIT -->
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
 </p>
-<!-- EDIT: replace links with your real ones -->
 
----
+## 📦 Libraries :
 
-<p align="center">⭐ Thanks for visiting my profile!</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="38" height="38"/>
+</p>
+
+## 🗄️ Databases :
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38"/>
+</p>
+
+## 🛠️ Tools :
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="38" height="38"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="38" height="38"/>
+</p>
+
+## 📚 Top Languages :
+
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=abhinavkumarsawai1109-web" alt="Top Languages"/>
+</p>
+
+## 🔗 Connect with Me :
+
+<p align="center">
+<a href="https://github.com/abhinavkumarsawai1109-web"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abhinav-kumar-sawai-1ba99837a"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" height="40"></a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/Abhinavkumarsaw1"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40"></a>
+</p>
+
+## 📈 Contributions :
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks_for_Visiting!-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keep_Coding!-FF6F00?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</div>
